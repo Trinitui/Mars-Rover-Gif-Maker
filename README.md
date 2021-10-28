@@ -1,6 +1,9 @@
 # Mars-Rover-Gif-Maker
 
-## This script will create a gif from a range of dates (sols) for a given rover. Details below. 
+[gif](https://i.imgur.com/XwHPEWt.mp4)
+
+
+## This script will create a gif from a range of dates (sols) for a given rover.  
 
 
     mars_pics = []

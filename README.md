@@ -1,6 +1,6 @@
 # Mars-Rover-Gif-Maker
 
-![Spirit's Navcam](https://i.imgur.com/XwHPEWt.mp4)
+[Spirit's Navcam](https://i.imgur.com/XwHPEWt.mp4)
 
 https://i.imgur.com/XwHPEWt.mp4
 

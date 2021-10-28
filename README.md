@@ -1,8 +1,7 @@
 # Mars-Rover-Gif-Maker
 
-[Spirit's Navcam](https://i.imgur.com/XwHPEWt.mp4)
+![Spirit's Navcam](XwHPEWt.gif)
 
-https://i.imgur.com/XwHPEWt.mp4
 
 
 ## This script will create a gif from a range of dates (sols) for a given rover.  

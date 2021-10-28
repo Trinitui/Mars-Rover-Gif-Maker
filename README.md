@@ -30,8 +30,8 @@
     print("Done with saving...")
 
 
-    fp_in = r"C:\Users\andre_001\Desktop\Coding\Image\*.png"
-    fp_out = rf"C:\Users\andre_001\Desktop\Coding\Image\{rover}_gif_{camera}.gif"
+    fp_in = r"your_input_dir(where images were saved)*.png"
+    fp_out = rf"your_output_dir!\{rover}_gif_{camera}.gif"
     #https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html#gif
 
 
